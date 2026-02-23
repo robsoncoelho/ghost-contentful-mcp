@@ -1,4 +1,4 @@
-# mcp-cms-search
+# Ghost + Contentful MCP
 
 An MCP (Model Context Protocol) server that lets AI assistants search across multiple CMS platforms — **Ghost** and **Contentful** — from a single interface.
 
